@@ -1,0 +1,5 @@
+cars = 100
+space_in_cars = 4
+
+
+print "there are, " cars, "cars available"
